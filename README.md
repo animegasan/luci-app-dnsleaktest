@@ -19,6 +19,12 @@
 
 This project is an application inspired from the DNS leak test by <a target="_blank" href="https://github.com/macvk/dnsleaktest">macvk</a>, providing a user-friendly graphical interface to easily perform DNS security tests.
 
+## Install via Terminal
+```
+curl -s https://raw.githubusercontent.com/animegasan/luci-app-droidnet/master/install.sh | sh
+```
+
+# Preview
 ![image](https://github.com/animegasan/luci-app-dnsleaktest/assets/14136053/41e1dfab-e650-442a-82c6-3cb90a98ab38)
 
 ![image](https://github.com/animegasan/luci-app-dnsleaktest/assets/14136053/eaf9b37e-42b9-48df-9fcc-102fde405951)
