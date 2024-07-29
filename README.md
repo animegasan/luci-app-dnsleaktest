@@ -21,7 +21,7 @@ This project is an application inspired from the DNS leak test by <a target="_bl
 
 ## Install via Terminal
 ```
-curl -s https://raw.githubusercontent.com/animegasan/luci-app-droidnet/master/install.sh | sh
+curl -s https://raw.githubusercontent.com/animegasan/luci-app-dnsleaktest/master/install.sh | sh
 ```
 
 # Preview
